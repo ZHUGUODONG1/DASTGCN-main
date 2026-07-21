@@ -3,7 +3,7 @@
 
 ## 1. Title
 
-### A Diverse Node-Aware Spatiotemporal Graph Convolution Network for Traffic Forecasting
+### Spatio-Temporal Graph Neural Network for Traffic Forecasting with Diverse Key Heterogeneous Information Awareness
 
 ## 2. Framework
 ![image](Figure_2.png)            
