@@ -6,7 +6,7 @@
 ### A Diverse Node-Aware Spatiotemporal Graph Convolution Network for Traffic Forecasting
 
 ## 2. Framework
-![image](Fig1.png)            
+![image](Figure_2.png)            
 
 ## 3. The code will be uploaded soon
 
