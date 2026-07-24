@@ -10,19 +10,19 @@
 
 ## 3. The code will be uploaded soon
 
+```bash
 python train.py \
-  --device cuda:0 \
-  --data data/ChengDu_City \
-  --adjdata data/ChengDu_City/adj_mat.pkl \
-  --adjtype doubletransition \
-  --batch_size 32 \
-  --epochs 100 \
-  --sample_ratio 0.333333 \
-  --lambda_cl 0.4 \
-  --CL true \
-  --force true
-
-
+    --device cuda:0 \
+    --data data/ChengDu_City \
+    --adjdata data/ChengDu_City/adj_mat.pkl \
+    --adjtype doubletransition \
+    --batch_size 32 \
+    --epochs 100 \
+    --sample_ratio 0.333333 \
+    --lambda_cl 0.4 \
+    --CL true \
+    --force true
+```
 
 
 
