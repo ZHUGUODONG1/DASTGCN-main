@@ -8,7 +8,7 @@
 ## 2. Framework
 ![image](Figure_2.png)            
 
-## 3. The code will be uploaded soon
+## 3. Training
 
 ```bash
 python train.py \
