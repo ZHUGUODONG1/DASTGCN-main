@@ -24,6 +24,17 @@ python train.py \
     --force true
 ```
 
+## 4. paper
+```bash
+@article{zhu2026spatio,
+  title={Spatio-temporal graph neural network for traffic forecasting with diverse key heterogeneous information awareness},
+  author={Zhu, Guodong and Du, Bo and Niu, Yunyun},
+  journal={Pattern Recognition},
+  pages={114807},
+  year={2026},
+  publisher={Elsevier}
+}
+```
 
 
 
